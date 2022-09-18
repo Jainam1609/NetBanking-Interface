@@ -4,4 +4,4 @@ To run the application you need to install all the files on your pc and run the 
 
 
 # Other Contributors
--[Nish Patel](https://github.com/nkpatel512)
+-[Nish Patel](https://github.com/nishpatel512)
